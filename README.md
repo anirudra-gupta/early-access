@@ -8,7 +8,7 @@
 
 ## GET YOUR OWN BY INFINITY SERVICES PROVIDERS 
 
-[![Deploy with Vercel](INFINITYSERVICESPROVIDERS.COM)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FIdee8%2FWaitly&env=UPSTASH_REDIS_REST_URL,UPSTASH_REDIS_REST_TOKEN,NOTION_SECRET,NOTION_DB,RESEND_API_KEY,RESEND_FROM_EMAIL&envDescription=Environment%20variables%20needed%20for%20the%20Waitly%20template.&project-name=my-waitlist&repository-name=my-waitlist-app&template=Waitly)
+AT infinityservicesproviders.com
 ## Core Features
 
 - **Next.js 15**: Built with the latest features of the leading React framework for performance and developer experience.
